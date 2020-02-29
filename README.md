@@ -1,2 +1,2 @@
-# librar.ia - letras
-Inteligência Artificial que serve para identificar as mãos om o banco de dados
+# librar.ia - palavras mão
+Banco de dados para identificação de palavras em libras usando apenas getos manuais.
